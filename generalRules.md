@@ -14,6 +14,6 @@
     * change method signatures
     * modify the contents of the `.github` folder and `pom.xml` file.
     * modify existing test classes (if any) in the folder src/test/java.
-* Java version: 14
+* Java version: 21
 * **Important: if at least one of the above rules is not satisfied, one or all tests may fail and points may be lost!**
 * It is normal at the beginning to have compiler errors in the test code, or otherwise failed tests, since the starter code does not satisfy requirements of the assignment.
