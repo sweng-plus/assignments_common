@@ -9,7 +9,7 @@
 	* The root package is the one containing the starter code, and corresponds to the  folder provided in `src/main/java`
 	* Every new class file must start with a package declaration
 * Regarding the starter code, please make sure **not** to:
-	* rename the root package
+    * re-package classes
     * rename classes and their access modifiers 
     * change method signatures
     * modify the contents of the `.github` folder and `pom.xml` file.
