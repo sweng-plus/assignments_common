@@ -70,7 +70,9 @@
 -   Die **endgültige Punktezahl** wird anschließend als Badge im
     **README** angezeigt (sichtbar auf der Repository-Seite). Später
     werden die Punkte nach **Blackboard** übertragen.
--   Danach haben Sie **keinen Schreibzugriff mehr auf Ihr
+-   Das Badge ist mit dem entsprechenden Run verlinkt. Wenn Sie darauf 
+    klicken, gelangen Sie zur Zusammenfassung dieses Runs.		
+-   Nach der Deadline haben Sie **keinen Schreibzugriff mehr auf Ihr
     Assignment-Repository**, sodass Sie nach der Deadline keine
     Änderungen mehr pushen können.
 -   Sie können das Repository jedoch weiterhin **bis zum Ende des
